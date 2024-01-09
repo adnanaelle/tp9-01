@@ -1,0 +1,11 @@
+header{
+    display: flex;
+    justify-content: center;
+    background-color: antiquewhite;
+}
+
+main{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
